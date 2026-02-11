@@ -4,9 +4,18 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Mateo and I'm a Full Stack Programmer, from Argentinian</h2>
+<h2 align="left">Hola 👋! Mi nombre es Mateo y soy un programador backend (con skills de fullstack), de Argentina</h2>
 
 ###
+## 💼 Sobre mí
+Backend Developer enfocado en .NET y Spring Boot. 
+Aunque tengo capacidades full-stack, mi especialización 
+y pasión está en arquitectura backend, APIs y microservicios.
+
+## 🎓 Proyecto destacado: TravelMate
+Sistema de planificación de viajes - Proyecto de tesis UTN
+- Backend en Spring Boot con arquitectura REST
+- Colaboración con @Alexis-Davis
 
 ###
 
